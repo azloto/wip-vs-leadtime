@@ -14,10 +14,11 @@ If you want to pay with the wip limits, just modify the WipLimit in the lanes se
 
 eg.
 
-{
-  "Lanes": [ 
-    { "WipLimit": 2 } 
+  "Lanes": [ {
+      "$id": "18",
+      "Title": "Dev",
+      "WipLimit": 2
+    }
   ]
-}
 
 If you have any questions or suggestions please let me know.
