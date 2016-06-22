@@ -1,5 +1,5 @@
 # wip-vs-leadtime
-monte carlo simulation of wip vs leadtime.
+Monte carlo simulation of wip vs leadtime.
 
 This small tool demostrates the relation between wip limits and bottlenecks in a project.
 
