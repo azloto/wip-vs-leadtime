@@ -10,4 +10,14 @@ By default a sample configuration is loaded using 4 swimlanes, 4 dev-members, 2 
 The tool accepts a Json file as its configuration. 
 So it should be fearly easy to store and load your specific configurations. 
 
+If you want to pay with the wip limits, just modify the WipLimit in the lanes section of the config.
+
+eg.
+
+{
+  "Lanes": [ 
+    { "WipLimit": 2 } 
+  ]
+}
+
 If you have any questions or suggestions please let me know.
